@@ -26,6 +26,7 @@ class NhanVienThuViec : public Nguoi
 private:
 	int SoGioLam;
 	int SoLuongTheoGio;
+public:
 };
 class QuanLiNhanVien
 {
